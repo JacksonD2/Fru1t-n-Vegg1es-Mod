@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "fru1tnvegg1es:item/pineapple"
+  }
+}
